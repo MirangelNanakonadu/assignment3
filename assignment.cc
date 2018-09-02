@@ -38,5 +38,4 @@ int main()
 		return 0;
 	}
 
-
-
+//index number 10670360.
